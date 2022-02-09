@@ -1,30 +1,64 @@
 # INFORMATION CENTER MANAGEMENT SYSTEM
 
-**INTRODUCTION:**
+**INTRODUCTION**
 
 Information Center Management System is a software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates. It allows both the admin and the student to search for the desired book. This system completely automates all our library’s activities. The best way to maintain, organize and handle countless books systematically is to implement a information center management system software. 
 
 The project “Information Center Management System” is developed in C, which mainly focuses on basic operations in a library like adding new books, and updating new information, searching books and members and return books. It gives us the complete information about the library. It tracks the records of the number of books in the library or how many books are issued or how many books have been returned or renewed or late fine charges. We can enter the record of new books, retrieve the details of books and also stock available in the library. 
 
-**OBJECTIVES:**
+**OBJECTIVES**
 
-a) To manage all the details about members, books, issues and students.
-b) To track all the details about books, students and issues.
-c) To build a monitoring system that is able to monitor and manage all library operations efficiently.
-d) Give an opportunity to librarians to reduce mistakes that always happen during manual method.
-e) To store properly the library items in order to maintain their security.
-f) To build a system that can receive input and generate output automatically in an easy way and in a short time.
+* To manage all the details about members, books, issues and students
+* To track all the details about books, students and issues
+* To build a monitoring system that is able to monitor and manage all library operations efficiently
+* Give an opportunity to librarians to reduce mistakes that always happen during manual method
+* To store properly the library items in order to maintain their security
 
-**BENEFITS:**
+**BENEFITS**
 
-a) Record Maintenance
-b) Web-Based Solution
-c) Saves Time and Cost
-d) Secure and Reliable
-e) Increases Efficiency
-f) Simple and Easy to Use
+* Secure and Reliable
+* Simple and Easy to Use
+* Increases Efficiency
+* Record Maintenance
+* Saves Time and Cost
 
-4W'S and 1H:
+**FEATURES**
+
+* Online access
+* Barcode Scanning
+* Self management
+
+**DEFINING SYSTEM**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**4W'S and 1H**
 
 Who
 
