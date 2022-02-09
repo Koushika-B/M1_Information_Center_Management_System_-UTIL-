@@ -59,19 +59,19 @@ Information Center Management System is implemented to do the book issue, return
 
 **Strengths**
 
-a) Simple and easy to use
-b) Increased library engagement
-c) Efficient cloud data management
-d) Highly secure, scalable & reliable
-e) Mobile access
+* Simple and easy to use
+* Increased library engagement
+* Efficient cloud data management
+* Highly secure, scalable & reliable
+* Mobile access
 
 **Weakness**
 
-a) The data stored is prone to cyber hacks
-b) Costly and expensive
-c) Complicated to operate
-d) Online systems require high-speed internet connectivity
-e) Risk of computer virus
+* The data stored is prone to cyber hacks
+* Costly and expensive
+* Complicated to operate
+* Online systems require high-speed internet connectivity
+* Risk of computer virus
 
 **Opportunities**
 
@@ -80,4 +80,16 @@ The LMS leaks outward into new spaces, spaces which it didn’t inhabit before, 
 **Threats**
 
 Libraries now send and retrieve data from databases to help better manage inventory and the like, but some libraries don’t have the right data encryption practices in place. This can often lead to lost data and sometimes, the data easily obtainable by criminals.
+
+**DETAIL REQUIREMENTS**
+
+**High Level Requirements**
+
+![HLR](https://user-images.githubusercontent.com/98836479/153268400-f4c31cc9-ed76-4a78-bce9-059049e4522f.PNG)
+
+**Low Level Requirements**
+
+![LLR](https://user-images.githubusercontent.com/98836479/153267848-413ba88b-3f17-45dd-8f34-303c8b3108f4.PNG)
+
+
 
