@@ -1,29 +1,28 @@
-INFORMATION CENTER MANAGEMENT SYSTEM
+# INFORMATION CENTER MANAGEMENT SYSTEM
 
-INTRODUCTION:
+**INTRODUCTION:**
 
-Information Center management is a project that manages and stores books information electronically according to students needs. The system helps both students and library manager to keep a constant track of all the books available in the library. It allows both the admin and the student to search for the desired book.
+Information Center Management System is a software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates. It allows both the admin and the student to search for the desired book. This system completely automates all our library’s activities. The best way to maintain, organize and handle countless books systematically is to implement a information center management system software. 
 
-The project titled Information Center Management System is Information Center Management software for monitoring and controlling the transactions in a library. The project “Information Center Management System” is developed in C, which mainly focuses on basic operations in a library like adding new books, and updating new information, searching books and members and return books.
+The project “Information Center Management System” is developed in C, which mainly focuses on basic operations in a library like adding new books, and updating new information, searching books and members and return books. It gives us the complete information about the library. It tracks the records of the number of books in the library or how many books are issued or how many books have been returned or renewed or late fine charges. We can enter the record of new books, retrieve the details of books and also stock available in the library. 
 
-This project “INFORMATION CENTER MANAGEMENT SYSTEM” gives us the complete information about the library. We can enter the record of new books and retrieve the details of books available in the library. We can issue the books to the students and maintain their records and can also check how many books are issued and stock available in the library. In this project we can maintain the late fine of students who returns the issued books after the due date.
+**OBJECTIVES:**
 
-OBJECTIVES:
+a) To manage all the details about members, books, issues and students.
+b) To track all the details about books, students and issues.
+c) To build a monitoring system that is able to monitor and manage all library operations efficiently.
+d) Give an opportunity to librarians to reduce mistakes that always happen during manual method.
+e) To store properly the library items in order to maintain their security.
+f) To build a system that can receive input and generate output automatically in an easy way and in a short time.
 
-a) To build a system that can receive input and generate automatically output in easy way and short time.
-b) To build a monitoring system that is able to monitor and manage all library operations efficiently.
-c) Give an opportunity to librarians to reduce mistakes that always happen during manual method.
-d) To store properly the library items in order to maintain their security.
-e) To enter and preserve details of the various issues and keep a track on their returns.
+**BENEFITS:**
 
-BENEFITS:
-
-a) Record Maintenance.
-b) Web-Based Solution.
-c) Saves Time and Cost.
-d) Secure and Reliable.
-e) Increases Efficiency.
-f) Simple and Easy to Use.
+a) Record Maintenance
+b) Web-Based Solution
+c) Saves Time and Cost
+d) Secure and Reliable
+e) Increases Efficiency
+f) Simple and Easy to Use
 
 4W'S and 1H:
 
