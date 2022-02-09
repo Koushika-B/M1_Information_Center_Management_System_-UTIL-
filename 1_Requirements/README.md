@@ -30,79 +30,54 @@ The project “Information Center Management System” is developed in C, which 
 
 **DEFINING SYSTEM**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Design](https://user-images.githubusercontent.com/98836479/153248742-ee472496-2474-4faf-84b1-e01de99e051a.PNG)
 
 
 **4W'S and 1H**
 
-Who
+**Who**
 
-This Information Center Management System is an application is used by all the students, and staff who are having id's.
+Information Center Management System is an application used by all the students and staff who are having id's.
 
-What:
+**What**
 
-Information Center Management Systems is software that helps to maintain a database that is useful to enter new books & record books borrowed by the members, with the respective submission dates.
+Information Center Management Systems is software that helps to maintain a database that is useful to enter new books & record books borrowed by the members with the respective submission dates.
 
-When:
+**When**
 
-This Information Center Management System is very useful when there are large no of readers visit library to return, renewal, or take books. It is very tedious to enter the records manually so here this project come into handy.
+Information Center Management System is very useful when there are large no of readers visit library to return, renewal, or take books. It is very tedious to enter the records manually so here this project come into handy.
 
-Where:
+**Where**
 
-The Information Center management system is nowadays essential for schools, colleges, private libraries, and other organizations. They can use this software as the purpose of books issuing and returning for renewal.
+Information Center Management System is nowadays essential for schools, colleges, private libraries, and other organizations. They can use this software as the purpose of books issuing and returning for renewal.
 
-How:
+**How**
 
-This project is implemented to do the book issuing, retunrn, or renewal purpose by entering the student or faculty id as input.
+Information Center Management System is implemented to do the book issue, return and renewal purpose by entering the student or faculty id as input.
 
-Swot Analysis:
+**SWOT ANALYSIS**
 
-Strengths:
+**Strengths**
 
-a) Simple & Easy to Use
-b) Increased Library Engagement
-c) Efficient Cloud Data Management
-d) Highly Secure, Scalable & Reliable
-e) Mobile Access
+a) Simple and easy to use
+b) Increased library engagement
+c) Efficient cloud data management
+d) Highly secure, scalable & reliable
+e) Mobile access
 
-Weakness:
+**Weakness**
 
 a) The data stored is prone to cyber hacks
-b) Costly and Expensive
+b) Costly and expensive
 c) Complicated to operate
-d) Online Systems require high-speed internet connectivity
+d) Online systems require high-speed internet connectivity
 e) Risk of computer virus
 
-Opportunities:
+**Opportunities**
 
 The LMS leaks outward into new spaces, spaces which it didn’t inhabit before, such as reading lists repositories, learning systems, research data management and so forth. Furthermore, it is likely that the future of library systems will consist of a mixture of open and closed systems as well as local and shared (or hosted) services. With an increasing move towards closed platforms (like Facebook, for example) and proprietary ecosystems (like Apple), libraries will be required tonavigate these different spaces and ecosystems.
 
-Threats:
+**Threats**
 
 Libraries now send and retrieve data from databases to help better manage inventory and the like, but some libraries don’t have the right data encryption practices in place. This can often lead to lost data and sometimes, the data easily obtainable by criminals.
 
