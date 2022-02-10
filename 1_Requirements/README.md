@@ -4,7 +4,9 @@
 
 Information Center Management System is a software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates. It allows both the admin and the student to search for the desired book. This system completely automates all our library’s activities. The best way to maintain, organize and handle countless books systematically is to implement a information center management system software. 
 
-The project “Information Center Management System” is developed in C, which mainly focuses on basic operations in a library like adding new books, and updating new information, searching books and members and return books. It gives us the complete information about the library. It tracks the records of the number of books in the library or how many books are issued or how many books have been returned or renewed or late fine charges. We can enter the record of new books, retrieve the details of books and also stock available in the library. 
+**RESEARCH**
+
+As the library and information services community seeks to cope with new patterns of information provision, new technology and changing financial circumstances, it is critical to gain new thinking across the profession. The Latest research, innovative theory and best organizational practice are all presented in Library Management System. Library Management System website which is used to supply the books to the user. This is done through JAVA technologies. This has various technical areas. It includes WINDOWS XP as the operating System, Oracle as Database. The front end deals with GUI and source code deals with Oracle. 
 
 **OBJECTIVES**
 
