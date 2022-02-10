@@ -1,13 +1,13 @@
-# IMAGES ADDED:
+# IMAGES ADDED
 
-1.ADD BOOKS
+* Add Books
 
-2.DELETE BOOKS
+* Delete Books
 
-3.SEARCH BOOKS
+* Search Books
 
-4.ISSUE BOOKS
+* Issue Books
 
-5.VIEW BOOKS
+* View Books
 
-6.DISPLAY VIEW
+* Display View
