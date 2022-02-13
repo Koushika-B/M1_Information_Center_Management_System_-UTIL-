@@ -2,11 +2,17 @@
 
 # BADGES
 
-C
+**CI Badge**
 
 [![CI](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/build.yml/badge.svg)](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/build.yml)
 
-**Git Inspector**
+**Valgrid Badge**
+
+[![Valgrind](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/codequality.yml/badge.svg)](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/codequality.yml)
+
+**cpp Check Badge**
+
+**Git Inspector Badge**
 
 [![Contribution Check - Git Inspector](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/gitinspector.yml)
 
