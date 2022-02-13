@@ -2,21 +2,23 @@
 
 # BADGES
 
-**CI Badge**
+**Build**
 
 [![CI](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/build.yml/badge.svg)](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/build.yml)
 
-**Valgrid Badge**
+**Valgrid**
 
 [![Valgrind](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/codequality.yml/badge.svg)](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/codequality.yml)
 
-**cpp Check Badge**
+**cppcheck**
 
-**Git Inspector Badge**
+[![cppcheck-action](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/cppcheck.yml/badge.svg?branch=main)](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/cppcheck.yml)
+
+**Git Inspector**
 
 [![Contribution Check - Git Inspector](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/gitinspector.yml)
 
-**Codacya Badge**
+**Codacya**
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2046cb6227104b798115e815f209acbb)](https://www.codacy.com/gh/Koushika-B/M1_Information_Center_Management_System_-UTIL-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Koushika-B/M1_Information_Center_Management_System_-UTIL-&amp;utm_campaign=Badge_Grade)
 
