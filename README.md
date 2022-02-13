@@ -6,7 +6,7 @@
 
 [![CI](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/build.yml/badge.svg)](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/build.yml)
 
-**Valgrid**
+**Valgrind**
 
 [![Valgrind](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/codequality.yml/badge.svg)](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/codequality.yml)
 
