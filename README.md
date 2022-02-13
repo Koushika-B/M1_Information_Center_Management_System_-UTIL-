@@ -2,6 +2,10 @@
 
 # BADGES
 
+C
+
+[![CI](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/build.yml/badge.svg)](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/build.yml)
+
 **Git Inspector**
 
 [![Contribution Check - Git Inspector](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Koushika-B/M1_Information_Center_Management_System_-UTIL-/actions/workflows/gitinspector.yml)
