@@ -52,6 +52,11 @@ As the library and information services community seeks to cope with new pattern
 ![Design](https://user-images.githubusercontent.com/98836479/153248742-ee472496-2474-4faf-84b1-e01de99e051a.PNG)
 
 
+* User shall be able to add books in the library
+* User shall be able to delete books from the library
+* User shall be able to view the selected books from the library
+* User shall be able to complaint or raise an issue about the books in the library
+
 ## 5W'S and 1H
 
 ### What
@@ -112,7 +117,8 @@ Libraries now send and retrieve data from databases to help better manage invent
 
 ### Low Level Requirements
 
-![LLR](https://user-images.githubusercontent.com/98836479/153267848-413ba88b-3f17-45dd-8f34-303c8b3108f4.PNG)
+![LLR](https://user-images.githubusercontent.com/98836479/156114778-7b691690-86bf-443a-9599-57103c1f138d.PNG)
+
 
 
 
