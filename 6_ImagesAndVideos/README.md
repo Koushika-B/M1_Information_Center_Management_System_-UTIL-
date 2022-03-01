@@ -1,13 +1,13 @@
 # IMAGES ADDED
 
-* Add Books
+* Output of the add books
 
-* Delete Books
+* Output of the delete books
 
-* Search Books
+* Output of the search books
 
-* Issue Books
+* Output of the issue books
 
-* View Books
+* Output of thr view books
 
-* Display View
+* Output of the display view
