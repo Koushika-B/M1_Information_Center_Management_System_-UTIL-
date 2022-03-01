@@ -10,7 +10,6 @@ Information Center Management System is a software that is designed to manage al
 * To track all the details about books, students and issues
 * To build a monitoring system that is able to monitor and manage all library operations efficiently
 * Give an opportunity to librarians to reduce mistakes that always happen during manual method
-* To store properly the library items in order to maintain their security
 
 ## RESEARCH
 
