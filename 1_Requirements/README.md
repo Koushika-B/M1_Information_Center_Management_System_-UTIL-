@@ -117,7 +117,8 @@ Libraries now send and retrieve data from databases to help better manage invent
 
 ### Low Level Requirements
 
-![LLR](https://user-images.githubusercontent.com/98836479/156114778-7b691690-86bf-443a-9599-57103c1f138d.PNG)
+![LLR](https://user-images.githubusercontent.com/98836479/156163430-0b31f65b-a3e2-4185-b5dc-b20ac4c06f6e.PNG)
+
 
 
 
