@@ -2,7 +2,7 @@
 
 * Output of the addition of the books
 
-* Output of the deletion of the book
+* Output of the deletion of the books
 
 * Output of the books search
 
